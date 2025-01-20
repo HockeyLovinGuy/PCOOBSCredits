@@ -1,0 +1,175 @@
+{
+    "service_date": "2025-01-18T11:15:00Z",
+    "songs": [
+        {
+            "title": "Announcements/Prelude",
+            "sequence": 1,
+            "length": 300,
+            "description": null,
+            "ccli_number": "N/A",
+            "writer_credits": "N/A",
+            "copyright_notice": "N/A"
+        },
+        {
+            "title": "Rejoice In The Lord Always",
+            "sequence": 2,
+            "length": 60,
+            "description": null,
+            "ccli_number": "N/A",
+            "writer_credits": "Evelyn Tarner",
+            "copyright_notice": "1967 Word Music, LLC"
+        },
+        {
+            "title": "I've Got Peace Like A River",
+            "sequence": 3,
+            "length": 120,
+            "description": null,
+            "ccli_number": "N/A",
+            "writer_credits": "Jeffrey Rickard",
+            "copyright_notice": "1994 Selah Publishing Company, Inc."
+        },
+        {
+            "title": "Welcome & Prayer",
+            "sequence": 4,
+            "length": 300,
+            "description": "Joseph Wamack",
+            "ccli_number": "N/A",
+            "writer_credits": "N/A",
+            "copyright_notice": "N/A"
+        },
+        {
+            "title": "Children's Story",
+            "sequence": 5,
+            "length": 480,
+            "description": "Lindsay Esterline",
+            "ccli_number": "N/A",
+            "writer_credits": "N/A",
+            "copyright_notice": "N/A"
+        },
+        {
+            "title": "Special Music",
+            "sequence": 6,
+            "length": 240,
+            "description": "Kyle & Chloe Paduraru\n(Violin/Flute Duet)",
+            "ccli_number": "N/A",
+            "writer_credits": "N/A",
+            "copyright_notice": "N/A"
+        },
+        {
+            "title": "Worship in Giving",
+            "sequence": 7,
+            "length": 300,
+            "description": "Melanie Fanelli",
+            "ccli_number": "N/A",
+            "writer_credits": "N/A",
+            "copyright_notice": "N/A"
+        },
+        {
+            "title": "Sweet Jesus - What a wonder You are",
+            "sequence": 8,
+            "length": 60,
+            "description": null,
+            "ccli_number": "N/A",
+            "writer_credits": null,
+            "copyright_notice": null
+        },
+        {
+            "title": "Seek Ye First",
+            "sequence": 9,
+            "length": 120,
+            "description": null,
+            "ccli_number": "N/A",
+            "writer_credits": "Karen Lafferty",
+            "copyright_notice": "1972 Maranatha! Music and CCCM Music"
+        },
+        {
+            "title": "Sanctuary",
+            "sequence": 10,
+            "length": 60,
+            "description": null,
+            "ccli_number": "N/A",
+            "writer_credits": "Randy Scruggs and John W. Thompson",
+            "copyright_notice": "1982 Whole Armor Publishing Company and Full Armor Publishing Company"
+        },
+        {
+            "title": "Whisper A Prayer",
+            "sequence": 11,
+            "length": 60,
+            "description": null,
+            "ccli_number": "N/A",
+            "writer_credits": "Lyndell Leatherman",
+            "copyright_notice": "1986 \u00a9  Lillenas Publishing Company (Admin. by Music Services, Inc.)"
+        },
+        {
+            "title": "Prayer",
+            "sequence": 12,
+            "length": 180,
+            "description": "Leland Davis",
+            "ccli_number": "N/A",
+            "writer_credits": "N/A",
+            "copyright_notice": "N/A"
+        },
+        {
+            "title": "Message",
+            "sequence": 13,
+            "length": 1800,
+            "description": "Series DIGGING IN THE WORD\nPastor: Eileen States\nTitle The Call to Discipleship\nScripture: Mark 8:34-38",
+            "ccli_number": "N/A",
+            "writer_credits": "N/A",
+            "copyright_notice": "N/A"
+        },
+        {
+            "title": "Announcements/Postlude",
+            "sequence": 14,
+            "length": 300,
+            "description": null,
+            "ccli_number": "N/A",
+            "writer_credits": "N/A",
+            "copyright_notice": "N/A"
+        }
+    ],
+    "people": {
+        "Audio/Visual": [
+            {
+                "name": "Alex Doreto",
+                "position": "Audio"
+            },
+            {
+                "name": "Greg Payne",
+                "position": "Live Stream"
+            },
+            {
+                "name": "Anthony Prophete",
+                "position": "Lyrics"
+            }
+        ],
+        "Music": [
+            {
+                "name": "Keila Birge",
+                "position": "Worship Leader"
+            }
+        ],
+        "Speakers": [
+            {
+                "name": "Lindsay Esterline",
+                "position": "Children's Story"
+            },
+            {
+                "name": "Leland Davis",
+                "position": "Elder/Prayer"
+            },
+            {
+                "name": "Eileen States",
+                "position": "Speaker"
+            },
+            {
+                "name": "Joseph Wamack",
+                "position": "Worship Host"
+            },
+            {
+                "name": "Melanie Fanelli",
+                "position": "Worship in Giving"
+            }
+        ]
+    }
+}
